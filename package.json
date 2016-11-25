@@ -1,0 +1,27 @@
+{
+  "name": "@terminus/jquery-image-maps",
+  "version": "0.0.2",
+  "description": "jquery image map",
+  "main": "jquery.imageMaps.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "jquery.imageMaps.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dzy321/ImageMaps.git"
+  },
+  "keywords": [
+    "jquery",
+    "image",
+    "map"
+  ],
+  "author": "wy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dzy321/ImageMaps/issues"
+  },
+  "homepage": "https://github.com/dzy321/ImageMaps#readme"
+}
